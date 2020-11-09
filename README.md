@@ -4,3 +4,5 @@
 * y - yank
 * p - paste
 * v - visual selection 
+* G - end of file
+* g - begining of file
