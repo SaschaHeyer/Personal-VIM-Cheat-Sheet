@@ -9,3 +9,6 @@
 * A - move to the end of the line and switch to editing mode
 * ci) - change inside parens (parens can be replace wich anything)
 * a - append (write text after cursor)
+* dw - delete word
+* w - jump word wise forward
+* b - jump word wise backward
