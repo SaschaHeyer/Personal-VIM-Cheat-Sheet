@@ -1,5 +1,7 @@
 # Personal-VIM-Cheat-Sheet
 
+
+## Shortcuts
 * ciw - Delete word and switch to insert mode 
 * y - yank
 * p - paste
@@ -12,3 +14,21 @@
 * dw - delete word
 * w - jump word wise forward
 * b - jump word wise backward
+
+## Visual Studio Code setup
+```
+defaults write com.microsoft.VSCode ApplePressAndHoldEnabled -bool false 
+```
+
+Settings
+```
+    "vim.smartRelativeLine": true,
+    "vim.leader": "<space>",
+    "vim.easymotion": true,
+    "vim.insertModeKeyBindings": [
+        {
+          "before": ["j", "j"],
+          "after": ["<Esc>"]
+        }
+      ],
+```
