@@ -15,6 +15,10 @@
 * w - jump word wise forward
 * b - jump word wise backward
 
+
+* leader leader b - highlight and jump search backward
+* leader leader w - highlight and jump search forward
+
 ## Visual Studio Code setup
 ```
 defaults write com.microsoft.VSCode ApplePressAndHoldEnabled -bool false 
