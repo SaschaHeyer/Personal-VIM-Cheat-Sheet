@@ -2,6 +2,7 @@
 
 
 ## Shortcuts
+Basics shortcuts, master them and then take advanced commands 
 * ciw - Delete word and switch to insert mode 
 * y - yank
 * p - paste
