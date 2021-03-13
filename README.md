@@ -1,5 +1,6 @@
 # Personal-VIM-Cheat-Sheet
 
+/Users/sascha/.config/nvim/init.vim
 
 ## Shortcuts
 Basics shortcuts, master them and then take advanced commands 
