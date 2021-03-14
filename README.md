@@ -1,6 +1,6 @@
 # Personal-VIM-Cheat-Sheet
 
-/Users/sascha/.config/nvim/init.vim
+/Users/sascha/.config/nvim/init.vim stored in $MYVIMRC
 
 ## Shortcuts
 Basics shortcuts, master them and then take advanced commands 
@@ -18,6 +18,9 @@ Basics shortcuts, master them and then take advanced commands
 * b - jump word wise backward
 * leader leader b - highlight and jump search backward
 * leader leader w - highlight and jump search forward
+
+## split management
+configured on navigation keys control + hjkl
 
 ## Visual Studio Code setup
 ```
