@@ -22,6 +22,7 @@ Basics shortcuts, master them and then take advanced commands
 ## useful for faster programming
 * gd - jumps to the definition (really usfeful to inspect methods)
 * control + o - to jump back
+* di + { - to delete everything in between the curly braces
 
 ## split management
 configured on navigation keys control + hjkl
