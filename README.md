@@ -19,6 +19,10 @@ Basics shortcuts, master them and then take advanced commands
 * leader leader b - highlight and jump search backward
 * leader leader w - highlight and jump search forward
 
+## useful for faster programming
+* gd - jumps to the definition (really usfeful to inspect methods)
+* control + o - to jump back
+
 ## split management
 configured on navigation keys control + hjkl
 
