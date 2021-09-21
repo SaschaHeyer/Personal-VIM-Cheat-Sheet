@@ -23,6 +23,7 @@ Basics shortcuts, master them and then take advanced commands
 * gd - jumps to the definition (really usfeful to inspect methods)
 * control + o - to jump back
 * di + { - to delete everything in between the curly braces
+* caw - delete word and switch to insert mode
 
 ## split management
 configured on navigation keys control + hjkl
